@@ -55,7 +55,7 @@ These repositories offer a view into my technical interests and development work
 
 | Repository | Area |
 | :--- | :--- |
-| [**Ar-Rahnu system · low-code**](https://github.com/Zulfaizalazly/low-code) | Business workflows and a PHP / Laravel system |
+| [**system · low-code**](https://github.com/Zulfaizalazly/low-code) | Business workflows and a PHP / Laravel system |
 | [**OCR exploration · ocrtrialtest**](https://github.com/Zulfaizalazly/ocrtrialtest) | Document processing experiments in Python |
 | [**Quest API · quest-server**](https://github.com/Zulfaizalazly/quest-server) | API and backend development |
 
